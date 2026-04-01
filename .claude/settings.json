@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import docx; print\\(''python-docx available''\\)\")",
+      "Bash(python -c \"import pip; print\\(''pip available''\\)\")",
+      "Bash(pip install:*)",
+      "Bash(python -c \"import docx; print\\(''OK''\\)\")",
+      "Bash(where python:*)",
+      "Bash(\"D:\\\\Software\\\\Anaconda\\\\python.exe\" -c \"import docx; print\\(''OK''\\)\")",
+      "Bash(\"D:\\\\Software\\\\Anaconda\\\\python.exe\" \"e:\\\\My Files\\\\Project\\\\Dynamic Gesture Recognition\\\\demo最终提交版本\\\\Unity-A3-UI-main\\\\gen_report.py\")",
+      "Bash(\"D:\\\\Software\\\\Anaconda\\\\python.exe\" -c \"import os; p=r''e:\\\\My Files\\\\Project\\\\Dynamic Gesture Recognition\\\\demo最终提交版本\\\\Unity-A3-UI-main\\\\项目总报告.docx''; print\\(''存在'' if os.path.exists\\(p\\) else ''不存在'', os.path.getsize\\(p\\) if os.path.exists\\(p\\) else 0, ''bytes''\\)\")",
+      "Bash(\"D:\\\\Software\\\\Anaconda\\\\python.exe\" -c \":*)",
+      "Bash(\"D:\\\\Software\\\\Anaconda\\\\python.exe\" -c \"import docx; print\\(''ok''\\)\")",
+      "Bash(\"e:\\\\My Files\\\\Project\\\\Dynamic:*)",
+      "Bash(\"D:\\\\Software\\\\Anaconda\\\\python.exe\" \"e:\\\\My Files\\\\Project\\\\Dynamic Gesture Recognition\\\\demo最终提交版本\\\\Unity-A3-UI-main\\\\gen_audio_doc.py\")"
+    ]
+  }
+}
