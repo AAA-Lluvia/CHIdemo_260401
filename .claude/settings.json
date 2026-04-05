@@ -12,7 +12,10 @@
       "Bash(\"D:\\\\Software\\\\Anaconda\\\\python.exe\" -c \":*)",
       "Bash(\"D:\\\\Software\\\\Anaconda\\\\python.exe\" -c \"import docx; print\\(''ok''\\)\")",
       "Bash(\"e:\\\\My Files\\\\Project\\\\Dynamic:*)",
-      "Bash(\"D:\\\\Software\\\\Anaconda\\\\python.exe\" \"e:\\\\My Files\\\\Project\\\\Dynamic Gesture Recognition\\\\demo最终提交版本\\\\Unity-A3-UI-main\\\\gen_audio_doc.py\")"
+      "Bash(\"D:\\\\Software\\\\Anaconda\\\\python.exe\" \"e:\\\\My Files\\\\Project\\\\Dynamic Gesture Recognition\\\\demo最终提交版本\\\\Unity-A3-UI-main\\\\gen_audio_doc.py\")",
+      "Read(//Users/**)",
+      "Bash(python -c ':*)",
+      "Bash(dir /s /b \"e:\\\\My Files\\\\Project\\\\Dynamic Gesture Recognition\\\\CHIdemo_260401\\\\CHIdemo\\\\Assets\\\\*.cs\")"
     ]
   }
 }
